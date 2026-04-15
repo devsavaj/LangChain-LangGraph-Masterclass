@@ -1,1 +1,11 @@
-
+langchain
+langgraph
+openai
+python-dotenv
+chromadb
+faiss-cpu
+tiktoken
+streamlit
+fastapi
+uvicorn
+pydantic
